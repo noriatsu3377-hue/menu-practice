@@ -62,3 +62,5 @@ details summary{transition:color .2s}details p{animation:none}
 .timetable li.part::before{top:50%;margin-top:-4px}
 .timetable li.part h3{margin:0;font-size:1.05rem;letter-spacing:.05em}
 @media(max-width:767px){.materials{padding:22px 20px}.materials ol{grid-template-columns:1fr}.timetable li{grid-template-columns:1fr;gap:4px;padding:18px 0 18px 20px}.timetable li.part{padding:12px 16px 12px 20px}.hero-date{font-size:1.05rem}}
+.guest{margin-top:56px;padding-top:40px;border-top:3px solid #B8955A}
+.guest h3{margin:8px 0 20px;font-size:clamp(1.15rem,2.6vw,1.5rem);line-height:1.6}
